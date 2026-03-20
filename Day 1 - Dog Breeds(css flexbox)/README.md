@@ -1,4 +1,4 @@
-# Day 3 – Flexbox Practice (Card UI)
+# Day 1 – Flexbox Practice (Card UI)
 
 Today I worked on building a simple card layout using HTML and CSS.
 
